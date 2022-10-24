@@ -1,4 +1,3 @@
-import "./App.css";
 import Counter from "./Componente/Counter";
 
 function App() {
